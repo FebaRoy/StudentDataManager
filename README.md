@@ -10,7 +10,7 @@
 
 ## How to Run
 1. Compile the program:
-   ```bash
+   ```
    javac Main.java
    ```
 2. Run the program:
