@@ -13,4 +13,8 @@
    ```bash
    javac Main.java
    ```
+2. Run the program:
+   ```
+   java Main
+   ```
 
